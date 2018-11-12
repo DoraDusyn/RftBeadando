@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Dora Dusyn\Desktop\Dorko\beadando\rftfrontend\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/kisfiu/git/RftBeadando/rftfrontend/src/styles.css */"./src/styles.css");
 
 
 /***/ })

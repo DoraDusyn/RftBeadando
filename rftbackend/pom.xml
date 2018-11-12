@@ -31,6 +31,7 @@
             <artifactId>rftfrontend</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+<!--        ez a szar kidob egy login screent-->
         <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
