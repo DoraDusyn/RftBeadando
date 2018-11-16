@@ -49,9 +49,9 @@ public class Mentor {
         this.comment = comment;
     }
 
-  /*  public Mentor(){
+    public Mentor(){
 
-    }*/
+    }
 
 
     public long getId() {
